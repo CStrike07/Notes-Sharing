@@ -1,0 +1,46 @@
+.a{
+	color: red;
+	background: green;
+	font-size: 45px;
+	text-transform: uppercase;
+}
+#name{
+	color: white;
+	background: black;
+	font-size: 20px;
+}
+#email{
+	color: white;
+	background: black;
+	font-size: 20px;
+}
+#password{
+	color: white;
+	background: black;
+	font-size: 20px;
+}
+.b{
+	color: blue;
+	background: grey;
+	font-size: 25px;
+	
+}
+#names{
+	color: yellow;
+	background: blue;
+	font-size: 25px;
+}
+.c{
+	color: yellow;
+	background: blue;
+	font-size: 25px;
+}
+.blinking-cursor{
+	font-weight: 100;
+	font-size: 20px;
+}
+#submit{
+	color: red;
+	background: blue;
+	font-size: 20px;
+}
